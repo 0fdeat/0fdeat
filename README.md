@@ -92,20 +92,6 @@ Size: 0B  Used: 0B  Avail: 0B  Use%: 100%
 
 ---
 
-##  ctf philosophy
-
-> **Stage 1:** "this looks easy"  
-> **Stage 2:** "ok interesting"  
-> **Stage 3:** "what the f—"  
-> **Stage 4:** *three hours pass*  
-> **Stage 5:** read writeup  
-> **Stage 6:** "ohhhh that was obvious"  
-> **Stage 7:** lie to yourself that you almost had it  
-> **Stage 8:** repeat  
-
----
-
-
 <div align="center">
 
 ```
